@@ -58,8 +58,9 @@ body{
 
 .sosial-media{
     
-    text-align: center;
+    align-items: flex-start;
     margin-top: 10px;
+    background-color: black;
     
 }
 .sosial-media i {
